@@ -1,0 +1,11 @@
+Team Members: Leslye Morales, Grace Crawford, William Rittenhouse, Patrick Williams
+
+Pet Shop Website Idea:
+
+Our group will be creating a pet shop website for both the custsomer and the employee. In our website the user will be able to log
+into their account either as a customer or as an employee and if they do not have an account they will also be given the chance to 
+create their account. They will both be asked to create a username and a password. The difference between the customer and the employee
+is that the customer will have to input a password that starts with a number 1 and then they will also have to include the amount they 
+have in their bank account, while the employee will only have to input a password that starts with the number 2. Once the account has been
+created they will be able to log in. If a customer logs in they will have the chance to either buy or return something. If an employee
+logs in they will have the chance to update the inventory.
